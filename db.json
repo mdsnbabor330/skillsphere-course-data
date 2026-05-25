@@ -1,6 +1,6 @@
 {
    "courses": [
-    {
+  {
     "id": 1,
     "title": "Complete Web Development Bootcamp",
     "instructor": "John Doe",
@@ -10,7 +10,9 @@
     "description": "Learn full-stack web development from scratch with HTML, CSS, JavaScript, APIs, and deployment workflows.",
     "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["HTML and semantic layouts", "Responsive CSS systems", "JavaScript fundamentals", "API integration", "Project deployment"]
+    "lessons": ["HTML and semantic layouts", "Responsive CSS systems", "JavaScript fundamentals", "API integration", "Project deployment"],
+    "price": 94.99,
+    "enrolledStudents": 14250
   },
   {
     "id": 2,
@@ -22,7 +24,9 @@
     "description": "Design polished interfaces, reusable components, and research-backed user journeys for modern products.",
     "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["User research", "Wireframes", "Component libraries", "Usability testing", "Portfolio case study"]
+    "lessons": ["User research", "Wireframes", "Component libraries", "Usability testing", "Portfolio case study"],
+    "price": 84.99,
+    "enrolledStudents": 8920
   },
   {
     "id": 3,
@@ -34,7 +38,9 @@
     "description": "Plan campaigns, analyze funnels, and improve conversion using content, email, SEO, and social channels.",
     "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80",
     "category": "Marketing",
-    "lessons": ["Audience strategy", "SEO basics", "Campaign analytics", "Email funnels", "Growth experiments"]
+    "lessons": ["Audience strategy", "SEO basics", "Campaign analytics", "Email funnels", "Growth experiments"],
+    "price": 49.99,
+    "enrolledStudents": 11040
   },
   {
     "id": 4,
@@ -46,7 +52,9 @@
     "description": "Turn raw data into insight with spreadsheets, SQL thinking, and business-ready visual dashboards.",
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80",
     "category": "Data",
-    "lessons": ["Data cleanup", "Metrics design", "Dashboard storytelling", "Charts and tables", "Executive reports"]
+    "lessons": ["Data cleanup", "Metrics design", "Dashboard storytelling", "Charts and tables", "Executive reports"],
+    "price": 79.99,
+    "enrolledStudents": 6730
   },
   {
     "id": 5,
@@ -58,7 +66,9 @@
     "description": "Create intentional microinteractions, page transitions, and animated prototypes that clarify product behavior.",
     "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["Motion principles", "Timing curves", "Prototype flows", "Accessibility", "Handoff specs"]
+    "lessons": ["Motion principles", "Timing curves", "Prototype flows", "Accessibility", "Handoff specs"],
+    "price": 69.99,
+    "enrolledStudents": 3150
   },
   {
     "id": 6,
@@ -70,7 +80,9 @@
     "description": "Deploy resilient web apps with environment variables, logs, domains, previews, and production checks.",
     "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["Hosting choices", "Environment variables", "CI previews", "Monitoring", "Launch checklist"]
+    "lessons": ["Hosting choices", "Environment variables", "CI previews", "Monitoring", "Launch checklist"],
+    "price": 89.99,
+    "enrolledStudents": 5210
   },
   {
     "id": 7,
@@ -82,7 +94,9 @@
     "description": "Master server components, state orchestration, custom hooks, and rendering performance in enterprise applications.",
     "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["Server components", "State state machines", "Concurrent rendering", "Custom hooks library", "Performance profiling"]
+    "lessons": ["Server components", "State state machines", "Concurrent rendering", "Custom hooks library", "Performance profiling"],
+    "price": 119.99,
+    "enrolledStudents": 7430
   },
   {
     "id": 8,
@@ -92,9 +106,11 @@
     "rating": 4.7,
     "level": "Beginner",
     "description": "Establish clear visual hierarchy using mathematical type scales, responsive grids, and clean layout baselines.",
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=900&q=80",
+    "image": "https://images.unsplash.com/photo-151342789411-b6a5d4f31634?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["Type scale selection", "Vertical rhythm", "Fluid grid systems", "Whitespace management", "Cross-device testing"]
+    "lessons": ["Type scale selection", "Vertical rhythm", "Fluid grid systems", "Whitespace management", "Cross-device testing"],
+    "price": 39.99,
+    "enrolledStudents": 9840
   },
   {
     "id": 9,
@@ -106,7 +122,9 @@
     "description": "Build robust data pipelines, orchestrate ETL workflows, and handle large-scale data processing efficiently.",
     "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=900&q=80",
     "category": "Data",
-    "lessons": ["ETL pipeline design", "SQLAlchemy integration", "Stream processing", "Error handling workflows", "Airflow orchestration"]
+    "lessons": ["ETL pipeline design", "SQLAlchemy integration", "Stream processing", "Error handling workflows", "Airflow orchestration"],
+    "price": 104.99,
+    "enrolledStudents": 4620
   },
   {
     "id": 10,
@@ -118,7 +136,9 @@
     "description": "Dominate search rankings using technical audits, intent-based keyword research, and modern link-building frameworks.",
     "image": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=900&q=80",
     "category": "Marketing",
-    "lessons": ["Technical SEO audits", "Search intent maps", "Core Web Vitals", "Backlink engineering", "Rank tracking metrics"]
+    "lessons": ["Technical SEO audits", "Search intent maps", "Core Web Vitals", "Backlink engineering", "Rank tracking metrics"],
+    "price": 54.99,
+    "enrolledStudents": 8150
   },
   {
     "id": 11,
@@ -130,7 +150,9 @@
     "description": "Leverage advanced type mechanics, generics, and decorators to write completely type-safe JavaScript applications.",
     "image": "https://images.unsplash.com/photo-1516116211223-5c359a36298a?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["Generics and utility types", "Conditional mapping", "Type narrowing techniques", "Decorator patterns", "Strict compiler flags"]
+    "lessons": ["Generics and utility types", "Conditional mapping", "Type narrowing techniques", "Decorator patterns", "Strict compiler flags"],
+    "price": 99.99,
+    "enrolledStudents": 6120
   },
   {
     "id": 12,
@@ -142,7 +164,9 @@
     "description": "Translate brand strategy into visual assets including scalable logos, dynamic color systems, and comprehensive style guides.",
     "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["Brand anatomy", "Color psychology rules", "Vector asset production", "Design system alignment", "Brand guideline delivery"]
+    "lessons": ["Brand anatomy", "Color psychology rules", "Vector asset production", "Design system alignment", "Brand guideline delivery"],
+    "price": 89.99,
+    "enrolledStudents": 4390
   },
   {
     "id": 13,
@@ -154,7 +178,9 @@
     "description": "Understand core algorithms, feature engineering, and model validation using Scikit-Learn and real datasets.",
     "image": "https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&w=900&q=80",
     "category": "Data",
-    "lessons": ["Regression models", "Classification engines", "Feature engineering", "Overfitting prevention", "Model validation metrics"]
+    "lessons": ["Regression models", "Classification engines", "Feature engineering", "Overfitting prevention", "Model validation metrics"],
+    "price": 129.99,
+    "enrolledStudents": 11500
   },
   {
     "id": 14,
@@ -166,7 +192,9 @@
     "description": "Structure high-converting ad accounts, design creative tests, and optimize return on ad spend (ROAS) systematically.",
     "image": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=900&q=80",
     "category": "Marketing",
-    "lessons": ["Pixel tracking setup", "Audience structuring", "Creative testing cycles", "Bidding optimizations", "Attribution modeling"]
+    "lessons": ["Pixel tracking setup", "Audience structuring", "Creative testing cycles", "Bidding optimizations", "Attribution modeling"],
+    "price": 64.99,
+    "enrolledStudents": 7280
   },
   {
     "id": 15,
@@ -178,7 +206,9 @@
     "description": "Build high-throughput REST and GraphQL APIs with robust security, caching strategies, and database optimization.",
     "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["Event loop tuning", "Database indexing", "JWT authentication systems", "Redis caching patterns", "Winston logging setups"]
+    "lessons": ["Event loop tuning", "Database indexing", "JWT authentication systems", "Redis caching patterns", "Winston logging setups"],
+    "price": 109.99,
+    "enrolledStudents": 3890
   },
   {
     "id": 16,
@@ -190,7 +220,9 @@
     "description": "Streamline UI production with complex auto-layout configurations, component variants, and interactive prototyping variables.",
     "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["Nested auto-layout", "Component properties", "Variable design tokens", "Advanced prototyping", "Developer handoff setup"]
+    "lessons": ["Nested auto-layout", "Component properties", "Variable design tokens", "Advanced prototyping", "Developer handoff setup"],
+    "price": 44.99,
+    "enrolledStudents": 13100
   },
   {
     "id": 17,
@@ -202,7 +234,9 @@
     "description": "Convert complex analytical tables into highly persuasive, interactive visual stories that align stakeholder decisions.",
     "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=900&q=80",
     "category": "Data",
-    "lessons": ["Data connection hooks", "Visual hierarchy rules", "Dashboard interaction design", "Context calculation fields", "Executive story boards"]
+    "lessons": ["Data connection hooks", "Visual hierarchy rules", "Dashboard interaction design", "Context calculation fields", "Executive story boards"],
+    "price": 74.99,
+    "enrolledStudents": 5420
   },
   {
     "id": 18,
@@ -214,7 +248,9 @@
     "description": "Produce content calendars that consistently convert readers into qualified sales leads using lifecycle maps.",
     "image": "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&w=900&q=80",
     "category": "Marketing",
-    "lessons": ["Lifecycle mapping", "Editorial workflow setup", "SEO copywriting rules", "Lead magnet assembly", "Distribution playbooks"]
+    "lessons": ["Lifecycle mapping", "Editorial workflow setup", "SEO copywriting rules", "Lead magnet assembly", "Distribution playbooks"],
+    "price": 34.99,
+    "enrolledStudents": 9230
   },
   {
     "id": 19,
@@ -226,7 +262,9 @@
     "description": "Containerize microservices safely and orchestrate them using self-healing Kubernetes clusters under production load.",
     "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["Multi-stage Dockerfiles", "Container network models", "Pod layout strategies", "ConfigMaps and Secrets", "Horizontal pod scaling"]
+    "lessons": ["Multi-stage Dockerfiles", "Container network models", "Pod layout strategies", "ConfigMaps and Secrets", "Horizontal pod scaling"],
+    "price": 114.99,
+    "enrolledStudents": 4960
   },
   {
     "id": 20,
@@ -238,7 +276,9 @@
     "description": "Design responsive mobile interfaces optimized specifically for Human Interface Guidelines (iOS) and Material Design (Android).",
     "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["Platform design patterns", "Touch target structures", "Mobile typography rules", "Dark mode adaptation", "Export optimization assets"]
+    "lessons": ["Platform design patterns", "Touch target structures", "Mobile typography rules", "Dark mode adaptation", "Export optimization assets"],
+    "price": 79.99,
+    "enrolledStudents": 6180
   },
   {
     "id": 21,
@@ -250,7 +290,9 @@
     "description": "Formulate sound hypotheses, run statistically significant conversion optimization experiments, and analyze results.",
     "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=900&q=80",
     "category": "Marketing",
-    "lessons": ["Hypothesis formulation", "Sample size estimation", "Testing platform setup", "Statistical significance", "Post-test classification"]
+    "lessons": ["Hypothesis formulation", "Sample size estimation", "Testing platform setup", "Statistical significance", "Post-test classification"],
+    "price": 59.99,
+    "enrolledStudents": 3840
   },
   {
     "id": 22,
@@ -262,7 +304,9 @@
     "description": "Write high-performance SQL queries using window functions, common table expressions, and complex analytics partitions.",
     "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=900&q=80",
     "category": "Data",
-    "lessons": ["Window functions", "Common Table Expressions", "Subquery optimizations", "Data aggregation groups", "Query profile analysis"]
+    "lessons": ["Window functions", "Common Table Expressions", "Subquery optimizations", "Data aggregation groups", "Query profile analysis"],
+    "price": 69.99,
+    "enrolledStudents": 8560
   },
   {
     "id": 23,
@@ -274,7 +318,9 @@
     "description": "Build high-speed react apps featuring routing structures, optimized image handling, and effortless database connections.",
     "image": "https://images.unsplash.com/photo-1531498860502-7c67cf02f657?auto=format&fit=crop&w=900&q=80",
     "category": "Development",
-    "lessons": ["App router layouts", "Data revalidation tricks", "API endpoints setups", "Middleware execution", "Vercel production pipelines"]
+    "lessons": ["App router layouts", "Data revalidation tricks", "API endpoints setups", "Middleware execution", "Vercel production pipelines"],
+    "price": 94.99,
+    "enrolledStudents": 7110
   },
   {
     "id": 24,
@@ -286,7 +332,9 @@
     "description": "Conduct foundational user research interviews, synthesize insights using empathy maps, and uncover core user friction.",
     "image": "https://images.unsplash.com/photo-1553484771-047a44eee27f?auto=format&fit=crop&w=900&q=80",
     "category": "Design",
-    "lessons": ["Interview protocol maps", "Affinity mapping labs", "User persona models", "Friction analysis workflows", "Insight brief summaries"]
+    "lessons": ["Interview protocol maps", "Affinity mapping labs", "User persona models", "Friction analysis workflows", "Insight brief summaries"],
+    "price": 49.99,
+    "enrolledStudents": 2940
   },
   {
     "id": 25,
@@ -298,7 +346,9 @@
     "description": "Architect programmatic email sequences that segment buyers automatically using behavioral triggers and scoring trees.",
     "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&w=900&q=80",
     "category": "Marketing",
-    "lessons": ["Behavioral triggers", "Segmentation rule bases", "Lead scoring systems", "Deliverability optimizations", "Analytics payload audits"]
+    "lessons": ["Behavioral triggers", "Segmentation rule bases", "Lead scoring systems", "Deliverability optimizations", "Analytics payload audits"],
+    "price": 79.99,
+    "enrolledStudents": 4120
   },
   {
     "id": 26,
@@ -310,8 +360,11 @@
     "description": "Schedule, monitor, and configure robust programmatic data workflows using Directed Acyclic Graphs (DAGs) in Apache Airflow.",
     "image": "https://images.unsplash.com/photo-1580927757832-60241548291a?auto=format&fit=crop&w=900&q=80",
     "category": "Data",
-    "lessons": ["DAG definition tasks", "Operator selections", "Task dependency lines", "XCom data layers", "Airflow engine deployment"]
+    "lessons": ["DAG definition tasks", "Operator selections", "Task dependency lines", "XCom data layers", "Airflow engine deployment"],
+    "price": 119.99,
+    "enrolledStudents": 3250
   }
-   ]
+]
+   
 }
     
