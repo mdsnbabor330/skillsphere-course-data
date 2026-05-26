@@ -100,20 +100,6 @@
   },
   {
     "id": 8,
-    "title": "UI Typography & Grids",
-    "instructor": "Elena Rostova",
-    "duration": "8 hours",
-    "rating": 4.7,
-    "level": "Beginner",
-    "description": "Establish clear visual hierarchy using mathematical type scales, responsive grids, and clean layout baselines.",
-    "image": "https://images.unsplash.com/photo-151342789411-b6a5d4f31634?auto=format&fit=crop&w=900&q=80",
-    "category": "Design",
-    "lessons": ["Type scale selection", "Vertical rhythm", "Fluid grid systems", "Whitespace management", "Cross-device testing"],
-    "price": 39.99,
-    "enrolledStudents": 9840
-  },
-  {
-    "id": 9,
     "title": "Python for Data Engineering",
     "instructor": "Marcus Vance",
     "duration": "25 hours",
@@ -127,7 +113,7 @@
     "enrolledStudents": 4620
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "Search Engine Optimization Strategy",
     "instructor": "Sarah Jenkins",
     "duration": "11 hours",
@@ -140,22 +126,9 @@
     "price": 54.99,
     "enrolledStudents": 8150
   },
+  
   {
-    "id": 11,
-    "title": "TypeScript Deep Dive",
-    "instructor": "Lucas Santos",
-    "duration": "15 hours",
-    "rating": 4.9,
-    "level": "Advanced",
-    "description": "Leverage advanced type mechanics, generics, and decorators to write completely type-safe JavaScript applications.",
-    "image": "https://images.unsplash.com/photo-1516116211223-5c359a36298a?auto=format&fit=crop&w=900&q=80",
-    "category": "Development",
-    "lessons": ["Generics and utility types", "Conditional mapping", "Type narrowing techniques", "Decorator patterns", "Strict compiler flags"],
-    "price": 99.99,
-    "enrolledStudents": 6120
-  },
-  {
-    "id": 12,
+    "id": 10,
     "title": "Brand Identity Design Systems",
     "instructor": "Oliver de Fries",
     "duration": "19 hours",
@@ -169,7 +142,7 @@
     "enrolledStudents": 4390
   },
   {
-    "id": 13,
+    "id": 11,
     "title": "Machine Learning Foundations",
     "instructor": "Dr. Amara Okafor",
     "duration": "30 hours",
@@ -182,22 +155,9 @@
     "price": 129.99,
     "enrolledStudents": 11500
   },
+  
   {
-    "id": 14,
-    "title": "Paid Ads Blueprint (Meta & Google)",
-    "instructor": "Tomás Martinez",
-    "duration": "13 hours",
-    "rating": 4.5,
-    "level": "Intermediate",
-    "description": "Structure high-converting ad accounts, design creative tests, and optimize return on ad spend (ROAS) systematically.",
-    "image": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=900&q=80",
-    "category": "Marketing",
-    "lessons": ["Pixel tracking setup", "Audience structuring", "Creative testing cycles", "Bidding optimizations", "Attribution modeling"],
-    "price": 64.99,
-    "enrolledStudents": 7280
-  },
-  {
-    "id": 15,
+    "id": 12,
     "title": "Node.js Production Architectures",
     "instructor": "Ryan Gallagher",
     "duration": "24 hours",
@@ -211,7 +171,7 @@
     "enrolledStudents": 3890
   },
   {
-    "id": 16,
+    "id": 13,
     "title": "Figma Advanced Workflows",
     "instructor": "Sophie Dubois",
     "duration": "10 hours",
@@ -225,7 +185,7 @@
     "enrolledStudents": 13100
   },
   {
-    "id": 17,
+    "id": 14,
     "title": "Data Storytelling with Tableau",
     "instructor": "Kenji Takahashi",
     "duration": "16 hours",
@@ -239,7 +199,7 @@
     "enrolledStudents": 5420
   },
   {
-    "id": 18,
+    "id": 15,
     "title": "Content Marketing Frameworks",
     "instructor": "Rachel Green",
     "duration": "10 hours",
@@ -253,7 +213,7 @@
     "enrolledStudents": 9230
   },
   {
-    "id": 19,
+    "id": 16,
     "title": "Docker & Kubernetes Operations",
     "instructor": "Alexei Ivanov",
     "duration": "21 hours",
@@ -267,7 +227,7 @@
     "enrolledStudents": 4960
   },
   {
-    "id": 20,
+    "id": 17,
     "title": "Mobile App UI Design Systems",
     "instructor": "Nina Patel",
     "duration": "15 hours",
@@ -281,7 +241,7 @@
     "enrolledStudents": 6180
   },
   {
-    "id": 21,
+    "id": 18,
     "title": "A/B Testing & Optimization Labs",
     "instructor": "Chris Henderson",
     "duration": "14 hours",
@@ -295,21 +255,7 @@
     "enrolledStudents": 3840
   },
   {
-    "id": 22,
-    "title": "SQL Analytics Masterclass",
-    "instructor": "Diane McCarthy",
-    "duration": "17 hours",
-    "rating": 4.9,
-    "level": "Intermediate",
-    "description": "Write high-performance SQL queries using window functions, common table expressions, and complex analytics partitions.",
-    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=900&q=80",
-    "category": "Data",
-    "lessons": ["Window functions", "Common Table Expressions", "Subquery optimizations", "Data aggregation groups", "Query profile analysis"],
-    "price": 69.99,
-    "enrolledStudents": 8560
-  },
-  {
-    "id": 23,
+    "id": 19,
     "title": "Next.js Full-Stack Application Setups",
     "instructor": "Jordan Taylor",
     "duration": "18 hours",
@@ -323,21 +269,7 @@
     "enrolledStudents": 7110
   },
   {
-    "id": 24,
-    "title": "Design Research Frameworks",
-    "instructor": "Hassan Al-Saeed",
-    "duration": "11 hours",
-    "rating": 4.5,
-    "level": "Beginner",
-    "description": "Conduct foundational user research interviews, synthesize insights using empathy maps, and uncover core user friction.",
-    "image": "https://images.unsplash.com/photo-1553484771-047a44eee27f?auto=format&fit=crop&w=900&q=80",
-    "category": "Design",
-    "lessons": ["Interview protocol maps", "Affinity mapping labs", "User persona models", "Friction analysis workflows", "Insight brief summaries"],
-    "price": 49.99,
-    "enrolledStudents": 2940
-  },
-  {
-    "id": 25,
+    "id": 20,
     "title": "Email Growth Automation Ecosystems",
     "instructor": "Emily Watson",
     "duration": "12 hours",
@@ -349,21 +281,8 @@
     "lessons": ["Behavioral triggers", "Segmentation rule bases", "Lead scoring systems", "Deliverability optimizations", "Analytics payload audits"],
     "price": 79.99,
     "enrolledStudents": 4120
-  },
-  {
-    "id": 26,
-    "title": "Data Pipeline Orchestration (Airflow)",
-    "instructor": "Vikram Malhotra",
-    "duration": "20 hours",
-    "rating": 4.8,
-    "level": "Advanced",
-    "description": "Schedule, monitor, and configure robust programmatic data workflows using Directed Acyclic Graphs (DAGs) in Apache Airflow.",
-    "image": "https://images.unsplash.com/photo-1580927757832-60241548291a?auto=format&fit=crop&w=900&q=80",
-    "category": "Data",
-    "lessons": ["DAG definition tasks", "Operator selections", "Task dependency lines", "XCom data layers", "Airflow engine deployment"],
-    "price": 119.99,
-    "enrolledStudents": 3250
   }
+  
 ]
    
 }
